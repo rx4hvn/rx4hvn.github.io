@@ -1,0 +1,17 @@
+$bodycolor: #F5F5F5;
+$pcolor: #0EB57D;
+
+.bodybg {
+    background: $bodycolor;
+}
+
+.mastername {
+    color: #000;
+    font-weight: normal;
+
+    
+    span {
+        color: $pcolor;
+        font-weight: bold;
+    }
+}
